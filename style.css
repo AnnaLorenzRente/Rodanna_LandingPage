@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Courier New', Courier, monospace;
+  src: url(fonts/);
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.nav{
+    background-color: #000;
+}
+
+.logo{
+    max-width: 150px;
+    width: 100%;
+    padding: 20px 0 20px 20px;
+}
+
+.sobre{
+    background-color: #fff;
+}
+
+.produtos{
+    background-color: #000;
+}
+
+.blog{
+    background-color: #fff;
+}
+
+.footer{
+    background-color: #000;
+}
